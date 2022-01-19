@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Алексей Межаков](https://up.htmlacademy.ru/htmlcss/33/user/2003297).
-* Наставник: [Дмитрий Вашкевич] (https://htmlacademy.ru/profile/id116959).
+* Наставник: [Дмитрий Вашкевич](https://htmlacademy.ru/profile/id116959).
 
 ---
 
